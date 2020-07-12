@@ -1,4 +1,4 @@
-# myform1
+# json.yang myComponent
 
 ## Project setup
 ```
